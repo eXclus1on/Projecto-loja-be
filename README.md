@@ -50,3 +50,4 @@ Submission deadline is on the `31st of June` To submit the project, send us an e
   * Link to your project’s Github repository or repositories
 * Send it to Helder
 
+# Projecto-loja-be
